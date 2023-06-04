@@ -1,0 +1,6 @@
+{
+   "host": "172.16.0.44",
+   "database": "News",
+   "user": "postgres",
+   "password": "1C_Db_post"
+}
